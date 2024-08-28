@@ -82,7 +82,19 @@ En applikasjon som hjelper brukere å utforske feriedestinasjoner ved hjelp av e
 - [GitHub Repository](https://github.com/Ousman37/VacationExplorer)
 - [Live Demo](https://vacation-explorer.vercel.app/)
 
+### 3. User Management App
+En fullstendig CRUD-applikasjon for brukerstyring, utviklet med React for frontend og Node.js med Express for backend. Applikasjonen inkluderer brukergodkjenning, autorisasjon, og datavalidering.
 
+![User Management App](https://link-til-skjermbilde-user-management-app.png) <!-- Bytt ut med URL til skjermbildet ditt -->
+
+**Nøkkelegenskaper:**
+- **Frontend:** React, TypeScript, Material-UI
+- **Backend:** Node.js, Express, MongoDB
+- **Deployment:** Vercel
+
+**Lenker:**
+- [GitHub Repository](https://github.com/Ousman37/user-management-app)
+- [Live Demo](https://user-management-app.vercel.app)
 
 ## Hvordan Bygge Denne Seksjonen for en Portefølje eller README
 1. **Opprett Underdeler for Hver Ferdighetskategori**: Grupp relaterte ferdigheter under passende overskrifter som Frontend Utvikling, Backend Utvikling, etc.
