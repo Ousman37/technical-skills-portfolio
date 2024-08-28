@@ -35,7 +35,7 @@ En omfattende portefølje som viser mine tekniske ferdigheter innen frontend- og
 
 ### CSS-rammeverk og Preprosessorer
 - **Tailwind CSS**: Utility-first CSS rammeverk for rask UI-utvikling.
-  - *Eksempel*: Brukt i flere prosjekter for konsistent stil og layout. [Se prosjekteksempler på GitHub](https://github.com/Ousman37)
+  - *Eksempel*: Brukt i flere prosjekter for konsistent stil og layout. [Se prosjekteksempler på GitHub](https://github.com/Ousman37?tab=repositories)
 - **Bootstrap**: Rammeverk for responsiv og mobil-først webutvikling.
 - **SCSS (Sass)**: CSS preprosessor som gir avanserte stilfunksjoner.
 
@@ -48,9 +48,6 @@ En omfattende portefølje som viser mine tekniske ferdigheter innen frontend- og
 - **Agile/Scrum Metodikk**: Fulgt smidige utviklingspraksiser.
 - **Trello**: Verktøy for prosjektstyring og oppgavehåndtering.
 
-### Andre Verktøy
-- **Figma**: Verktøy for UX/UI design og prototyping.
-- **Framer Motion**: Verktøy for å lage komplekse animasjoner i React-applikasjoner.
 
   ## Prosjekter
 
@@ -96,8 +93,7 @@ En fullstendig CRUD-applikasjon for brukerstyring, utviklet med React for fronte
 - [GitHub Repository](https://github.com/Ousman37/user-management-app)
 - [Live Demo](https://user-management-app.vercel.app)
 
-## Hvordan Bygge Denne Seksjonen for en Portefølje eller README
-1. **Opprett Underdeler for Hver Ferdighetskategori**: Grupp relaterte ferdigheter under passende overskrifter som Frontend Utvikling, Backend Utvikling, etc.
-2. **Gi Reelle Eksempler**: For hver ferdighet, gi en kort beskrivelse etterfulgt av et spesifikt prosjekt som viser din ekspertise.
-3. **Legg Til Lenker til GitHub**: Inkluder lenker til repositorier eller live demoer der det er mulig.
-4. **Visuelle Forbedringer**: Legg til skjermbilder, GIF-er, eller kodeutdrag for å visuelt demonstrere arbeidet ditt.
+ ### Andre Verktøy
+- **Figma**: Verktøy for UX/UI design og prototyping.
+- **Framer Motion**: Verktøy for å lage komplekse animasjoner i React-applikasjoner.
+
