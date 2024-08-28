@@ -57,7 +57,7 @@ En omfattende portefølje som viser mine tekniske ferdigheter innen frontend- og
 ### 1. Real-Time Chat App
 En sanntids chat-applikasjon utviklet med React, Node.js, Express og MongoDB. Appen tillater brukere å kommunisere i sanntid og har støtte for autentisering, profiladministrasjon og websockets for meldingshåndtering.
 
-![Real-Time Chat App](https://link-til-skjermbilde.png) <!-- Bytt ut med URL til skjermbildet ditt -->
+![Real-Time Chat App](https://github.com/Ousman37/technical-skills-portfolio/blob/main/real-time-chat-app.png?raw=true) <!-- Bytt ut med URL til skjermbildet ditt -->
 
 **Nøkkelegenskaper:**
 - **Frontend:** React, TypeScript, Tailwind CSS
