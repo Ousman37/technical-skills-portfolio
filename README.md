@@ -71,7 +71,7 @@ En sanntids chat-applikasjon utviklet med React, Node.js, Express og MongoDB. Ap
 ### 2. Vacation Explorer
 En applikasjon som hjelper brukere å utforske feriedestinasjoner ved hjelp av en skalerbar og type-sikker backend bygget med Prisma og Express. Inkluderer brukerautentisering og dynamisk innhold basert på brukerpreferanser.
 
-![Vacation Explorer](https://link-til-skjermbilde.png) <!-- Bytt ut med URL til skjermbildet ditt -->
+![Vacation Explorer](https://github.com/Ousman37/technical-skills-portfolio/blob/main/link-til-skjermbilde.png?raw=true) <!-- Bytt ut med URL til skjermbildet ditt -->
 
 **Nøkkelegenskaper:**
 - **Backend:** Node.js, Express, Prisma
