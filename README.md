@@ -85,7 +85,7 @@ En applikasjon som hjelper brukere å utforske feriedestinasjoner ved hjelp av e
 ### 3. User Management App
 En fullstendig CRUD-applikasjon for brukerstyring, utviklet med React for frontend og Node.js med Express for backend. Applikasjonen inkluderer brukergodkjenning, autorisasjon, og datavalidering.
 
-![User Management App](https://link-til-skjermbilde-user-management-app.png) <!-- Bytt ut med URL til skjermbildet ditt -->
+![User Management App](https://github.com/Ousman37/technical-skills-portfolio/blob/main/user-management-app2.png?raw=true) <!-- Bytt ut med URL til skjermbildet ditt -->
 
 **Nøkkelegenskaper:**
 - **Frontend:** React, TypeScript, Material-UI
